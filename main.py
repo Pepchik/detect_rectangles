@@ -56,4 +56,4 @@ def main(image_path):
 
 
 if __name__ == '__main__':
-    main(r'assets\image.jpeg')
+    main(r'assets\image.png')
